@@ -1,0 +1,22 @@
+D:\Rayreth app\rayreth_app\rayreth app\bin\Debug\rayreth app.exe.config
+D:\Rayreth app\rayreth_app\rayreth app\bin\Debug\rayreth app.exe
+D:\Rayreth app\rayreth_app\rayreth app\bin\Debug\rayreth app.pdb
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.csproj.AssemblyReference.cache
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.csproj.SuggestedBindingRedirects.cache
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\MainWindow.g.cs
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\App.g.cs
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app_MarkupCompile.cache
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app_MarkupCompile.lref
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\MainWindow.baml
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.g.resources
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth_app.Properties.Resources.resources
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.csproj.GenerateResource.cache
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.csproj.CoreCompileInputs.cache
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.exe
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.pdb
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\more_options.g.cs
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\more_options.baml
+D:\Rayreth app\rayreth_app\rayreth app\bin\Debug\rayreth app.exe.manifest
+D:\Rayreth app\rayreth_app\rayreth app\bin\Debug\rayreth app.application
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.exe.manifest
+D:\Rayreth app\rayreth_app\rayreth app\obj\Debug\rayreth app.application
