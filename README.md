@@ -11,6 +11,7 @@
 </ul>
 </p>
 ⚠️ This app has been build for me (for now, maybe a day it will be a general app who can create your shorcut), so if you want to use it you need to load the project in visual studio and change the path of your app ! ⚠️
+
 <div class="thank">
 <p align="center">Thank you for reading ❤️ !</p>
 </div>
